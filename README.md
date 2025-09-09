@@ -62,7 +62,7 @@ Online shopping website with user accounts, product management, and cart system.
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Jitendra Dodwadiya](https://www.linkedin.com/in/dwdjitendra-cloud)
+- **LinkedIn:** [Jitendra Kumar Dodwadiya](https://www.linkedin.com/in/dwdjitendra/)
 - **Email:** jitendrakumar637587@gmail.com
 
 ---
