@@ -35,19 +35,23 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 
 ## 📂 Key Projects
 
-### 1. [SmartHealthBot](https://github.com/dwdjitendra-cloud/SmartHealth-Bot)
+### 1. [Video Proctoring System](https://github.com/dwdjitendra-cloud/SmartHealth-Bot)
+An AI-powered video proctoring system that ensures interview integrity through real-time focus, object, voice and activity detection.
+**Tech:** Node.js, Express, MongoDB, React, Vite, Tailwind CSS, TensorFlow.js, MediaPipe  
+
+### 2. [SmartHealthBot](https://github.com/dwdjitendra-cloud/SmartHealth-Bot)
 AI-powered healthcare chatbot to help patients get disease predictions and remedies.  
 **Tech:** MERN, Python, Flask, Razorpay  
 
-### 2. [Hostel Management System](https://github.com/dwdjitendra-cloud/hostel-management)
+### 3. [Hostel Management System](https://github.com/dwdjitendra-cloud/hostel-management)
 A full-stack app to manage hostel allotments and student data.  
 **Tech:** MERN Stack, TailwindCSS  
 
-### 3. [Spam Detector](https://github.com/dwdjitendra-cloud/spam-detector)
+### 4. [Spam Detector](https://github.com/dwdjitendra-cloud/spam-detector)
 ML model to detect fake emails and SMS messages.  
 **Tech:** Python, scikit-learn  
 
-### 4. [E-commerce Platform](https://github.com/dwdjitendra-cloud/E-commerce)
+### 5. [E-commerce Platform](https://github.com/dwdjitendra-cloud/E-commerce)
 Online shopping website with user accounts, product management, and cart system.  
 **Tech:** MERN Stack  
 
