@@ -35,7 +35,7 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 
 ## 📂 Key Projects
 
-### 1. [Video Proctoring System](https://github.com/dwdjitendra-cloud/SmartHealth-Bot)
+### 1. [Video Proctoring System](https://github.com/dwdjitendra-cloud/Focus-Object-Detection-in-Video-Interviews)
 An AI-powered video proctoring system that ensures interview integrity through real-time focus, object, voice and activity detection.
 **Tech:** Node.js, Express, MongoDB, React, Vite, Tailwind CSS, TensorFlow.js, MediaPipe  
 
