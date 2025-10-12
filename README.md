@@ -39,6 +39,8 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 **AI & ML:**  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=opencv&logoColor=white)
@@ -53,6 +55,7 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 
 | Project | Description | Main Languages | Repo | Live Demo |
 | ------- | ----------- | -------------- | ---- | --------- |
+| **dwdjitendra-portfolio** | Personal portfolio website | TypeScript, CSS, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/dwdjitendra-portfolio) |  |
 | **kube-credential** | Microservices-based credential issuance and verification system. Node.js, TypeScript, MongoDB Atlas, Docker, Kubernetes. | TypeScript, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/kube-credential) | [kube-credential-chi-pied.vercel.app/issue](https://kube-credential-chi-pied.vercel.app/issue) |
 | **SmartHealth-Bot** | Healthcare chatbot for disease prediction & remedies | TypeScript, JavaScript, Python | [Repo](https://github.com/dwdjitendra-cloud/SmartHealth-Bot) | [smart-health-bot.vercel.app](https://smart-health-bot.vercel.app) |
 | **Focus-Object-Detection-in-Video-Interviews** | AI-powered video proctoring system for interviews | TypeScript, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/Focus-Object-Detection-in-Video-Interviews) | [focus-object-detection-in-video-int-gray.vercel.app](https://focus-object-detection-in-video-int-gray.vercel.app/) |
@@ -61,7 +64,6 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 | **TODO-evaluation-app** | Task evaluation app | TypeScript, HTML, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/TODO-evaluation-app) |  |
 | **E-commerce Platform** | Online shopping with cart, product management | JavaScript | [Repo](https://github.com/dwdjitendra-cloud/E-commerce) |  |
 | **PaymentsApp-Advanced-main** | Advanced payments application | TypeScript, CSS, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/PaymentsApp-Advanced-main) |  |
-| **dwdjitendra-portfolio** | Personal portfolio website | TypeScript, CSS, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/dwdjitendra-portfolio) |  |
 | **HallAllotement-main** | Hall allotment system | JavaScript, HTML, CSS | [Repo](https://github.com/dwdjitendra-cloud/HallAllotement-main) |  |
 
 ---
