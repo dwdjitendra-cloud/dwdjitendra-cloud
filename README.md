@@ -63,7 +63,7 @@ I build web apps and AI projects that solve real-world problems. Currently learn
 | **PaymentsApp-Advanced-main** | Advanced payments application | TypeScript, CSS, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/PaymentsApp-Advanced-main) |  |
 | **dwdjitendra-portfolio** | Personal portfolio website | TypeScript, CSS, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/dwdjitendra-portfolio) |  |
 | **HallAllotement-main** | Hall allotment system | JavaScript, HTML, CSS | [Repo](https://github.com/dwdjitendra-cloud/HallAllotement-main) |  |
-| **kube-credential** | Microservices-based credential issuance and verification system. Node.js, TypeScript, MongoDB Atlas, Docker, Kubernetes. | TypeScript, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/kube-credential) |  |
+| **kube-credential** | Microservices-based credential issuance and verification system. Node.js, TypeScript, MongoDB Atlas, Docker, Kubernetes. | TypeScript, JavaScript | [Repo](https://github.com/dwdjitendra-cloud/kube-credential) | [kube-credential-chi-pied.vercel.app/issue](https://kube-credential-chi-pied.vercel.app/issue) |
 
 ---
 
